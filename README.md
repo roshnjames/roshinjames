@@ -25,7 +25,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/sreyas-sc/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Roshin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sreyas-sc&theme=dark&hide_border=true&stroke=0000&background=0D1117&date_format=j%20M%5B%20Y%5D&fire=0f9c08&ring=0f9c08&currStreakNum=ededed&currStreakLabel=0f9c08&sideNums=0f9c08&sideLabels=0f9c08"/>
+    <a href="https://github.com/rosh/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Roshin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roshnjames&theme=dark&hide_border=true&stroke=0000&background=0D1117&date_format=j%20M%5B%20Y%5D&fire=0f9c08&ring=0f9c08&currStreakNum=ededed&currStreakLabel=0f9c08&sideNums=0f9c08&sideLabels=0f9c08"/>
     </a>
 </p>
